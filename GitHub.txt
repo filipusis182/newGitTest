@@ -1,11 +1,14 @@
 cd .. folder behind
 cd folder forward
 dir check folder
+git check of all commands
+
+if you press "git commit" it will freez then press escape then ":wq"
 
 
 git clone (url) npr. https://github.com/filipusis182/newGitTest.git
 git status (online check)
-git add "example"
+git add "example" (git add -A sve
 git commit -m "added index.html" (comment for what you added) 
 git push /  pull (up to date)
 
